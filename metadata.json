@@ -1,0 +1,7 @@
+{
+  "name": "Creative Showcase",
+  "description": "A web application to showcase a portfolio of creative projects. Users can view public projects or sign in with Google to access exclusive content.",
+  "repository": "https://github.com/techtrekleo/creative-showcase",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
